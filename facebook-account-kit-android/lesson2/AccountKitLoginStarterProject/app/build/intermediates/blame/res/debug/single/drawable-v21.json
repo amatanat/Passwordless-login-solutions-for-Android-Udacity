@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/com_accountkit_input_cursor.xml",
+        "source": "/home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/res/drawable-v21/com_accountkit_input_cursor.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/com_accountkit_progress_complete.xml",
+        "source": "/home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/res/drawable-v21/com_accountkit_progress_complete.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/res/drawable-v21/design_password_eye.xml"
+    }
+]

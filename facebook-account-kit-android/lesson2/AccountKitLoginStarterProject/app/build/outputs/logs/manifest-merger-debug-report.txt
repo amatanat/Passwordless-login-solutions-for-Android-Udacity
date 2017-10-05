@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:8:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amatanat/.android/build-cache/9ede617a424db27d627af1af5318a1e1069da0a0/output/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:28:5-53:19
+MERGED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/amatanat/.android/build-cache/6a88cd5e8834c4f3fd345fa01c9b25352a313dbc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/amatanat/.android/build-cache/a6b90cbbb7d2c0b146a8445deed3cd7405955ccd/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/amatanat/.android/build-cache/4797e92c0f7aa3a8628ad54e10426d78b9afdfc6/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /home/amatanat/.android/build-cache/16834ea3310cc100d7f46ad92320fbabf129ce3d/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/amatanat/.android/build-cache/19281590e28f0383e0b633e3a4944ae44231faba/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.27.0] /home/amatanat/.android/build-cache/aeb0c92a029b7aff86a7753bb0a574306979cc5b/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amatanat/.android/build-cache/2b15c7d2e3c933ba8d037ca917b03f0a4f982276/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amatanat/.android/build-cache/1891ecfa70f979d0fd5a28263abf9d74da06df1f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amatanat/.android/build-cache/ba939a5d7fe365e41b8feb01f1a5edaf8514b095/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/amatanat/.android/build-cache/35a7056cba2e789039d974198acc68290491f168/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/amatanat/.android/build-cache/60b88e30e06c44e98bc63999060466665f9d5129/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amatanat/.android/build-cache/8ea31d330bf37eaf531126102b43b7776742bb7b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amatanat/.android/build-cache/ba0983c26393781228e94d35e3a9bec8599e88f9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amatanat/.android/build-cache/f41ad09c121a45cd22ead8ba1364142eb5e9cfdb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-places:4.27.0] /home/amatanat/.android/build-cache/456d38ba65011a3426d2b30b428af6f6a2a42ad1/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /home/amatanat/.android/build-cache/a5fb116721a615143730bf1bca4cdb7ee09adc11/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /home/amatanat/.android/build-cache/9213adaab176137faf58777ce8df85f02f0c76b5/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amatanat/.android/build-cache/7babdfade95e2b2299cf64b4c13013ea15ee2c59/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/amatanat/.android/build-cache/df615ac26d7257c0d7a927d193ee35ad7eb5ca90/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:9:9-36
+	android:icon
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.udacity.surfconnect.LoginActivity
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:18:13-49
+	android:theme
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:19:13-51
+	android:name
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:17:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.udacity.surfconnect.AccountActivity
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:27:9-30:52
+	android:screenOrientation
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:13-44
+	android:name
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:13-75
+uses-sdk
+INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amatanat/.android/build-cache/9ede617a424db27d627af1af5318a1e1069da0a0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amatanat/.android/build-cache/34d72d633135e1a4ce7faad1977695260d4b4167/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/amatanat/.android/build-cache/6a88cd5e8834c4f3fd345fa01c9b25352a313dbc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] /home/amatanat/.android/build-cache/2f61c13025717892dd90f635b9539e7bfc28a7b4/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /home/amatanat/.android/build-cache/35f2519357ea85463450940786a69b328b9c519d/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/amatanat/.android/build-cache/a6b90cbbb7d2c0b146a8445deed3cd7405955ccd/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/amatanat/.android/build-cache/4797e92c0f7aa3a8628ad54e10426d78b9afdfc6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.27.0] /home/amatanat/.android/build-cache/16834ea3310cc100d7f46ad92320fbabf129ce3d/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.27.0] /home/amatanat/.android/build-cache/19281590e28f0383e0b633e3a4944ae44231faba/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.27.0] /home/amatanat/.android/build-cache/aeb0c92a029b7aff86a7753bb0a574306979cc5b/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amatanat/.android/build-cache/2b15c7d2e3c933ba8d037ca917b03f0a4f982276/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amatanat/.android/build-cache/1891ecfa70f979d0fd5a28263abf9d74da06df1f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amatanat/.android/build-cache/ba939a5d7fe365e41b8feb01f1a5edaf8514b095/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.3.1] /home/amatanat/.android/build-cache/35a7056cba2e789039d974198acc68290491f168/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/amatanat/.android/build-cache/60b88e30e06c44e98bc63999060466665f9d5129/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amatanat/.android/build-cache/8ea31d330bf37eaf531126102b43b7776742bb7b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amatanat/.android/build-cache/ba0983c26393781228e94d35e3a9bec8599e88f9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amatanat/.android/build-cache/f41ad09c121a45cd22ead8ba1364142eb5e9cfdb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.android:facebook-places:4.27.0] /home/amatanat/.android/build-cache/456d38ba65011a3426d2b30b428af6f6a2a42ad1/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.27.0] /home/amatanat/.android/build-cache/a5fb116721a615143730bf1bca4cdb7ee09adc11/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.27.0] /home/amatanat/.android/build-cache/9213adaab176137faf58777ce8df85f02f0c76b5/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.27.0] /home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amatanat/.android/build-cache/7babdfade95e2b2299cf64b4c13013ea15ee2c59/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/amatanat/.android/build-cache/df615ac26d7257c0d7a927d193ee35ad7eb5ca90/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:29:9-34:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:31:13-65
+	android:launchMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:30:13-73
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:35:9-38:40
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:37:13-36
+	android:noHistory
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:36:13-86
+provider#com.facebook.accountkit.internal.AccountKitInitProvider
+ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:51:13-76
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:50:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/amatanat/.android/build-cache/34d72d633135e1a4ce7faad1977695260d4b4167/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/amatanat/.android/build-cache/6a88cd5e8834c4f3fd345fa01c9b25352a313dbc/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/amatanat/.android/build-cache/2b15c7d2e3c933ba8d037ca917b03f0a4f982276/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/amatanat/.android/build-cache/1891ecfa70f979d0fd5a28263abf9d74da06df1f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/amatanat/.android/build-cache/ba939a5d7fe365e41b8feb01f1a5edaf8514b095/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/amatanat/.android/build-cache/35a7056cba2e789039d974198acc68290491f168/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/amatanat/.android/build-cache/60b88e30e06c44e98bc63999060466665f9d5129/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/amatanat/.android/build-cache/8ea31d330bf37eaf531126102b43b7776742bb7b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/amatanat/.android/build-cache/ba0983c26393781228e94d35e3a9bec8599e88f9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/amatanat/.android/build-cache/f41ad09c121a45cd22ead8ba1364142eb5e9cfdb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/amatanat/.android/build-cache/7babdfade95e2b2299cf64b4c13013ea15ee2c59/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/amatanat/.android/build-cache/df615ac26d7257c0d7a927d193ee35ad7eb5ca90/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/amatanat/.android/build-cache/4797e92c0f7aa3a8628ad54e10426d78b9afdfc6/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/amatanat/.android/build-cache/4797e92c0f7aa3a8628ad54e10426d78b9afdfc6/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/amatanat/.android/build-cache/4797e92c0f7aa3a8628ad54e10426d78b9afdfc6/output/AndroidManifest.xml:20:20-65
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.27.0] /home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.27.0] /home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.27.0] /home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/AndroidManifest.xml:40:13-70
