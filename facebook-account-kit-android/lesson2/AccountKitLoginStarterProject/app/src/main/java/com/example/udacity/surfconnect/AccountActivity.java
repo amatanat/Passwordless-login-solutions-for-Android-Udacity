@@ -37,7 +37,7 @@ public class AccountActivity extends AppCompatActivity {
         // we can get them, such as account id, phone number, email address
         AccountKit.getCurrentAccount(new AccountKitCallback<Account>() {
             @Override
-            public void onSuccess(Account account) {
+            public void onSuccess(final Account account) {
                 // in success get account info
 
                 // get account id
@@ -62,7 +62,7 @@ public class AccountActivity extends AppCompatActivity {
             }
 
             @Override
-            public void onError(AccountKitError accountKitError) {
+            public void onError(final AccountKitError accountKitError) {
                 // in error show toast message that we have error
                 String message = accountKitError.getErrorType().getMessage();
                 Toast.makeText(AccountActivity.this, message, Toast.LENGTH_SHORT).show();

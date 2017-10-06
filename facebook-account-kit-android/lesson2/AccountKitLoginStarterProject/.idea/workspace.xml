@@ -40,7 +40,7 @@
       <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/udacity/surfconnect/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
+            <state relative-caret-position="240">
               <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,27 +52,14 @@
       <file leaf-file-name="AccountActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/udacity/surfconnect/AccountActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="79" column="36" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="36" />
+            <state relative-caret-position="-319">
+              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2163#2183#0" expanded="true" />
-                <element signature="e#2401#2421#0" expanded="true" />
+                <element signature="e#2169#2189#0" expanded="true" />
+                <element signature="e#2407#2427#0" expanded="true" />
               </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -2434,8 +2421,8 @@
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2163#2183#0" expanded="true" />
-            <element signature="e#2401#2421#0" expanded="true" />
+            <element signature="e#2169#2189#0" expanded="true" />
+            <element signature="e#2407#2427#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2446,8 +2433,8 @@
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2163#2183#0" expanded="true" />
-            <element signature="e#2401#2421#0" expanded="true" />
+            <element signature="e#2169#2189#0" expanded="true" />
+            <element signature="e#2407#2427#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2532,8 +2519,8 @@
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2163#2183#0" expanded="true" />
-            <element signature="e#2401#2421#0" expanded="true" />
+            <element signature="e#2169#2189#0" expanded="true" />
+            <element signature="e#2407#2427#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2576,8 +2563,8 @@
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2163#2183#0" expanded="true" />
-            <element signature="e#2401#2421#0" expanded="true" />
+            <element signature="e#2169#2189#0" expanded="true" />
+            <element signature="e#2407#2427#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2679,10 +2666,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_account.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="76" column="39" selection-start-line="76" selection-start-column="39" selection-end-line="76" selection-end-column="39" />
+        <state relative-caret-position="178">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -2692,7 +2687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/udacity/surfconnect/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="240">
           <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2700,22 +2695,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/udacity/surfconnect/AccountActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="79" column="36" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="36" />
+        <state relative-caret-position="-319">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2163#2183#0" expanded="true" />
-            <element signature="e#2401#2421#0" expanded="true" />
+            <element signature="e#2169#2189#0" expanded="true" />
+            <element signature="e#2407#2427#0" expanded="true" />
           </folding>
         </state>
       </provider>
