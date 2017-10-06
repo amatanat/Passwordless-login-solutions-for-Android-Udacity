@@ -24,12 +24,12 @@
         "source": "/home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/res/color/design_error.xml"
-    },
-    {
         "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
         "source": "/home/amatanat/.android/build-cache/72940c83ee4096de8c42719837eb93bac1250384/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/res/color/design_error.xml"
     },
     {
         "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",

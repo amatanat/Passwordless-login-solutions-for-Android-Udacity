@@ -24,7 +24,7 @@ public class LoginActivity extends AppCompatActivity {
         FontHelper.setCustomTypeface(findViewById(R.id.view_root));
 
         // check for an existing access token
-        AccessToken accessToken = AccountKit.getCurrentAccessToken();
+        final AccessToken accessToken = AccountKit.getCurrentAccessToken();
         // if user is already have access token then laucn AccountActivity
         if (accessToken != null){
             launchAccountActivity();
@@ -73,7 +73,7 @@ public class LoginActivity extends AppCompatActivity {
                 launchAccountActivity();
 
             }
-            
+
         }
     }
 

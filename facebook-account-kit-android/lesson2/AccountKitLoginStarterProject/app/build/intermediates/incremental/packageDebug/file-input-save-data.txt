@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Oct 06 14:30:46 CEST 2017
+#Fri Oct 06 15:39:24 CEST 2017
 835.base=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/resources-debug.ap_
 100.set=ANDROID_RESOURCE
 57.file=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar/com/google/i18n/phonenumbers/data/ShortNumberMetadataProto_KP

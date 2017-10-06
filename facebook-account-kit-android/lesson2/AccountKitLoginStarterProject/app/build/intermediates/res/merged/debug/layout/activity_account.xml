@@ -79,6 +79,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:text="@string/logout_label"
+        android:onClick="onLogout"
         style="@style/Base.Widget.AppCompat.Button.Borderless"
         android:textColor="@color/accountLogoutLabel"
         android:textSize="16sp"
