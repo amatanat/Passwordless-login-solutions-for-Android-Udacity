@@ -1,0 +1,7 @@
+#Fri Oct 06 14:30:46 CEST 2017
+base.0=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e25e3232dfa41703bdf0c0c645fd8977d12a64e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70ad9754349a6a37e7ab272ca33ad6e9a690e629/classes.dex
+base.1=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70ad9754349a6a37e7ab272ca33ad6e9a690e629
+file.0=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e25e3232dfa41703bdf0c0c645fd8977d12a64e/classes.dex

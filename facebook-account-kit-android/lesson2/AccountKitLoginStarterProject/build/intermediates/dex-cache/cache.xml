@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="958e887ed296c58ed9496ad02fc62e7b2342d403">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c4b8a13a617482d8d43f8b81bf9b6a8bca37b70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/aeb0c92a029b7aff86a7753bb0a574306979cc5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a0c96cb2e74d3a6e692d920c9e03326e77f6429">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcf0b7e836cccb7ae2c245f9c50223af564bdddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/ff5d5f218b38379ff8e625c192b7a12d759ddff1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc9ea2bc291bbebc83f5b160d115c699bddc4e16">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db02390b736fb0396208d3e46ab633552d80e704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_3e2227cf03854805fa0f224f87567c5d6269ffa4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.5.2/4a5b5caed312654f6aa2171d2f24e44785621d3d/libphonenumber-8.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5b5caed312654f6aa2171d2f24e44785621d3d">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/libphonenumber-8.5.2_a855149f97a25a583c9a3cb57ca73db81c49d8a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/78673098564c00cbf27fb6d9b7cee906f5d91d00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="252896ce41f2a84a2849e29235e66098be7d12ee">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a906a455fdba3e18d87bca9f58e760a4bc950af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/2f61c13025717892dd90f635b9539e7bfc28a7b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fa4bed8a1213a783ee394e58924fdc1aedc298a">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ef73c3b485028cbb0f4f4ebfa8fb2e5aa665ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/19281590e28f0383e0b633e3a4944ae44231faba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_177a601980cdc4afdbd826134a2303129ca9a397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/35a7056cba2e789039d974198acc68290491f168/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdd8ee1f95b1d9197b13f24a622fa5c5d48e1eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/35f2519357ea85463450940786a69b328b9c519d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90095b555b72205db6f9b93aca3cb9978d1e3344">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbabab1f6c8670db0f18000edd9d2737b1958a6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/a5fb116721a615143730bf1bca4cdb7ee09adc11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e9265033d532f4585b38221ad515bfe68d36a29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_e0a128295fd4ad8da659250400d7426522dc21e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/456d38ba65011a3426d2b30b428af6f6a2a42ad1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3f0a0d7a337984f2abac1127c26c243e058797a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/ba939a5d7fe365e41b8feb01f1a5edaf8514b095/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54914cc76c5399c99b1b694ffb9f01004aa9d955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82f2c655b72bbd35970cd5ad8fd491f3e853e0b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/a6b90cbbb7d2c0b146a8445deed3cd7405955ccd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81a7c2f4df66ec2c8d2b9a7fe683d6d969c1e9d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/6a88cd5e8834c4f3fd345fa01c9b25352a313dbc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44dab4a0e5d786a0ab9c029689aac31dbef3b0a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/16834ea3310cc100d7f46ad92320fbabf129ce3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02f5191906b55080282a81165c29e7209bc53f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_bdd8ac001eec92781d9b129713e4c0e0faf01dc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4ba7399a1a4f5c998b5ce4f6bf33a2e8347820c">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8184f7bc1250e3014da12066440d935c4f2e6d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/a068b51cd5f53e133a33160407377149b7a5a855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01df582636157b0f81b9e17dc77513f41ea7fa3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/9213adaab176137faf58777ce8df85f02f0c76b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c67b081e195cac72b57c7f2852c7ebc7c6966424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e25e3232dfa41703bdf0c0c645fd8977d12a64e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/.android/build-cache/4797e92c0f7aa3a8628ad54e10426d78b9afdfc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81be9d89fa556948028498b1e820e739dc4012d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b428fa26d119ac83664109f7a3f16e48e248bea">
+        <dex dex="/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson2/AccountKitLoginStarterProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_70ad9754349a6a37e7ab272ca33ad6e9a690e629/classes.dex" />
+    </item>
+
+</items>

@@ -4,8 +4,10 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 import com.facebook.accountkit.AccessToken;
 import com.facebook.accountkit.AccountKit;
+import com.facebook.accountkit.AccountKitLoginResult;
 import com.facebook.accountkit.ui.AccountKitActivity;
 import com.facebook.accountkit.ui.AccountKitActivity.ResponseType;
 import com.facebook.accountkit.ui.AccountKitConfiguration;
@@ -50,6 +52,29 @@ public class LoginActivity extends AppCompatActivity {
         intent.putExtra(AccountKitActivity.ACCOUNT_KIT_ACTIVITY_CONFIGURATION, accountKitConfiguration);
         startActivityForResult(intent, RESPONSE_CODE);
 
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == RESPONSE_CODE && resultCode == RESULT_OK){
+            // get login result
+            AccountKitLoginResult accountKitLoginResult = data.getParcelableExtra(
+                AccountKitLoginResult.RESULT_KEY);
+
+            // check if login was successfull
+            if (accountKitLoginResult.getError() != null){
+                // error in login
+                String errorMessage = accountKitLoginResult.getError().getErrorType().getMessage();
+                Toast.makeText(this, errorMessage, Toast.LENGTH_SHORT).show();
+            } else if (accountKitLoginResult.getAccessToken() != null){
+                // success in login
+                launchAccountActivity();
+
+            }
+            
+        }
     }
 
     private void launchAccountActivity() {
