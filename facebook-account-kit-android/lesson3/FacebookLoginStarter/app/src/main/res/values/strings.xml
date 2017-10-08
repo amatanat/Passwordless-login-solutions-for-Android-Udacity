@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Surf Connect</string>
-    <string name="FACEBOOK_APP_ID">1234</string>
-    <string name="ACCOUNT_KIT_CLIENT_TOKEN">bed5a6b7c8d</string>
-    <string name="ak_login_protocol_scheme">ak1234</string>
-    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="FACEBOOK_APP_ID">1459803510775854</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">835d6e1b2d8603affd0fc9d18ae8830c</string>
+    <string name="ak_login_protocol_scheme">ak1459803510775854</string>
+    <string name="fb_login_protocol_scheme">fb1459803510775854</string>
     <string name="login_email_label">Login with Email</string>
     <string name="login_phone_label">Login with Phone Number</string>
     <string name="account">Account</string>
