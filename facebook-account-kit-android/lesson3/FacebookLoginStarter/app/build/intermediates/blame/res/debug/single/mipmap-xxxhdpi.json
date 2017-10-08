@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

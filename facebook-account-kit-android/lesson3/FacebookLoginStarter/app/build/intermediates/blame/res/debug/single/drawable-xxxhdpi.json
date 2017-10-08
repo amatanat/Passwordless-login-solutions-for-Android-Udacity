@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/logo_surf_connect.png",
+        "source": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/res/drawable-xxxhdpi/logo_surf_connect.png"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/icon_profile_empty.png",
+        "source": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/res/drawable-xxxhdpi/icon_profile_empty.png"
+    }
+]

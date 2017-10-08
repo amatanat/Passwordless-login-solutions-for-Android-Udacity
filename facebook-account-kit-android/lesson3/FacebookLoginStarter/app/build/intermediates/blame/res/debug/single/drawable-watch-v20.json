@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/amatanat/.android/build-cache/e3302ca7af57db15efa2a32828c64fd3285f81c5/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]
