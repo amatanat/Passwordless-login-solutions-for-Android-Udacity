@@ -45,6 +45,23 @@ public class AccountActivity extends AppCompatActivity {
         infoLabel = (TextView) findViewById(R.id.info_label);
         info = (TextView) findViewById(R.id.info);
 
+        // if user logged in with facebook
+        if (AccessToken.getCurrentAccessToken() != null) {
+            // get the current profile
+            Profile profile = Profile.getCurrentProfile();
+
+            // check if current profile is not null
+            if (profile != null){
+                // display profile info
+                displayProfileInfo(profile);
+
+            } else{
+                // Fetch the profile, which will trigger the onCurrentProfileChanged receiver
+                Profile.fetchProfileForCurrentAccessToken();
+            }
+
+        }
+        else{
         // Otherwise, get Account Kit login information
         AccountKit.getCurrentAccount(new AccountKitCallback<Account>() {
             @Override
@@ -59,8 +76,7 @@ public class AccountActivity extends AppCompatActivity {
                     String formattedPhoneNumber = formatPhoneNumber(phoneNumber.toString());
                     info.setText(formattedPhoneNumber);
                     infoLabel.setText(R.string.phone_label);
-                }
-                else {
+                } else {
                     // if the email address is available, display it
                     String emailString = account.getEmail();
                     info.setText(emailString);
@@ -76,6 +92,7 @@ public class AccountActivity extends AppCompatActivity {
             }
         });
     }
+    }
 
     @Override
     public void onDestroy() {
@@ -85,6 +102,9 @@ public class AccountActivity extends AppCompatActivity {
     public void onLogout(View view) {
         // logout of Account Kit
         AccountKit.logOut();
+
+        // logout of Facebook
+        LoginManager.getInstance().logOut();
 
         launchLoginActivity();
     }
