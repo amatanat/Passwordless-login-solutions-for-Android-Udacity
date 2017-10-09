@@ -1,0 +1,4 @@
+#Mon Oct 09 12:12:56 CEST 2017
+base.0=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

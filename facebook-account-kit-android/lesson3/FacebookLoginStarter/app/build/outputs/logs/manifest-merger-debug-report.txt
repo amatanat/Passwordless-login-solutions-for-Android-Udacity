@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:2:1-58:12
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:2:1-67:12
 	package
 		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:4:5-46
 		INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml
@@ -20,7 +20,7 @@ ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-ac
 	android:name
 		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:8:5-56:19
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:8:5-65:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amatanat/.android/build-cache/9ede617a424db27d627af1af5318a1e1069da0a0/output/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.android:account-kit-sdk:4.27.0] /home/amatanat/.android/build-cache/91b7dfd1f0451dd9dc61c511df399a22e9d5cdef/output/AndroidManifest.xml:28:5-53:19
 MERGED from [com.android.support:design:25.3.1] /home/amatanat/.android/build-cache/a5f8ed35c124153d322571d32258d6364dea2cb8/output/AndroidManifest.xml:29:5-20
@@ -147,6 +147,12 @@ ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-ac
 		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:53:13-44
 	android:name
 		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:52:13-75
+activity#com.facebook.CustomTabActivity
+ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:56:9-64:20
+	android:exported
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml:56:19-64
 uses-sdk
 INJECTED from /home/amatanat/androidPorjects/passwordlessLoginSolutions/facebook-account-kit-android/lesson3/FacebookLoginStarter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/amatanat/.android/build-cache/9ede617a424db27d627af1af5318a1e1069da0a0/output/AndroidManifest.xml:5:5-7:41
